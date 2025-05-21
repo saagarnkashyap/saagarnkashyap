@@ -48,14 +48,6 @@ Fun fact: *Beyond code, I write poetry, edit music, and see life as data infused
 
 ---
 
-## Highlighted Work
-
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=saagarnkashyap&repo=dementia-analysis&theme=react)](https://github.com/saagarnkashyap/dementia-analysis)
-&nbsp;
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=saagarnkashyap&repo=gita-companion&theme=react)](https://github.com/saagarnkashyap/gita-companion)
-
----
-
 ## GitHub Stats
 
 ![Saagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saagarnkashyap&show_icons=true&theme=tokyonight)
