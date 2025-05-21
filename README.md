@@ -1,8 +1,6 @@
 <p align="center">
   <img src="saagar_banner.gif" alt="Cyberpunk Intro" />
 </p>
-![Hey there, I'm Saagar. I analyse rides, minds, scriptures & screens.](https://github.com/saagarnkashyap/saagarnkashyap/raw/main/header.gif)
-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saagar%20N%20Kashyap-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/saagar-n-kashyap-7231ab206/)
 &nbsp;
