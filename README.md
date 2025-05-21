@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="saagar_banner.gif" alt="Cyberpunk Intro" />
+</p>
 ![Hey there, I'm Saagar. I analyse rides, minds, scriptures & screens.](https://github.com/saagarnkashyap/saagarnkashyap/raw/main/header.gif)
 
 
