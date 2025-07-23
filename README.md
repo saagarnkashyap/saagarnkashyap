@@ -53,9 +53,9 @@ Fun fact: *Beyond code, I write poetry, edit music, and see life as data infused
 ![Saagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saagarnkashyap&show_icons=true&theme=tokyonight)
 ![Saagar's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saagarnkashyap&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saagarnkashyap&layout=compact&theme=tokyonight)
-
----
 ![LeetCode Stats](https://leetcard.jacoblin.cool/saagarkashyap?theme=catppuccinMocha&font=Noto%20Music&ext=activity)
+---
+
 
 ## Blog Posts (Coming Soon)
 <!-- BLOG-POST-LIST:START -->
