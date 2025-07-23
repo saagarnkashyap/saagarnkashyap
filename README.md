@@ -55,6 +55,7 @@ Fun fact: *Beyond code, I write poetry, edit music, and see life as data infused
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saagarnkashyap&layout=compact&theme=tokyonight)
 
 ---
+![LeetCode Stats](https://leetcard.jacoblin.cool/saagarkashyap?theme=catppuccinMocha&font=Noto%20Music&ext=activity)
 
 ## Blog Posts (Coming Soon)
 <!-- BLOG-POST-LIST:START -->
