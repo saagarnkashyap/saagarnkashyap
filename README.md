@@ -30,6 +30,13 @@ Fun fact: *Beyond code, I write poetry, edit music, and see life as data infused
 
 ---
 
+## GitHub Stats
+![Saagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saagarnkashyap&show_icons=true&theme=tokyonight)
+![Saagar's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saagarnkashyap&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saagarnkashyap&layout=compact&theme=tokyonight)
+
+---
+
 ## My Toolbox
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/> &nbsp;
@@ -45,25 +52,3 @@ Fun fact: *Beyond code, I write poetry, edit music, and see life as data infused
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" title="MongoDB"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" title="Photoshop"/> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" title="Illustrator"/>
-
----
-
-## GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saagarnkashyap&layout=compact&theme=tokyonight)
-
-![Saagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saagarnkashyap&show_icons=true&theme=tokyonight)
-
-![Saagar's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saagarnkashyap&theme=tokyonight)
-
-
----
-
-## Leetcode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/saagarkashyap?theme=catppuccinMocha&font=Noto%20Music&ext=activity)
-
-
-## Blog Posts (Coming Soon)
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
