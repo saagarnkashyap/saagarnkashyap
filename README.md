@@ -22,7 +22,7 @@ Working on **Dementia Prediction and Analysis** — a deep learning approach to 
 
 I’m looking for collaborators on **Bheeshma** – a digital Gita companion combining NLP and visual storytelling.
 
-Check out my work: [🔗 GitHub Repos](https://github.com/saagarnkashyap?tab=repositories)
+Check out my work: [🔗GitHub Repos](https://github.com/saagarnkashyap?tab=repositories)
 
 Reach me at: **saagarcourses@gmail.com**
 
