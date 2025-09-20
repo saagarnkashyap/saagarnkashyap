@@ -32,8 +32,8 @@ Fun fact: *Beyond code, I write poetry, edit music, and see life as data infused
 
 ## GitHub Stats
 
-![Saagar's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saagarnkashyap&theme=tokyonight&cache_seconds=0)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saagarnkashyap&layout=compact&theme=tokyonight&cache_seconds=0)
+![Saagar's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saagarnkashyap&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saagarnkashyap&layout=compact&theme=tokyonight)
 
 
 
