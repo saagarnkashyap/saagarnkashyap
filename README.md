@@ -33,12 +33,18 @@ Fun fact: *Beyond code, I write poetry, edit music, and see life as data infused
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=saagarnkashyap&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api?username=saagarnkashyap&show_icons=true&theme=tokyonight" />
+  <a href="https://streak-stats.demolab.com?user=saagarnkashyap&theme=dark">
+    <img height="200" align="center" src="https://streak-stats.demolab.com?user=saagarnkashyap&theme=dark" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=saagarnkashyap&show_icons=true&theme=tokyonight" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saagarnkashyap&layout=compact&theme=tokyonight" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saagarnkashyap&layout=compact&theme=tokyonight" />
+  </a>
 </p>
 
 
