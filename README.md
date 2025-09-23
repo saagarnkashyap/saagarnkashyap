@@ -33,13 +33,13 @@ Fun fact: *Beyond code, I write poetry, edit music, and see life as data infused
 ## GitHub Stats
 
 <a href="https://streak-stats.demolab.com?user=saagarnkashyap&theme=dark">
-  <img height=200 align="center" src="https://streak-stats.demolab.com?user=saagarnkashyap&theme=dark" />
+  <img height=200 align="center" src="https://streak-stats.demolab.com?user=saagarnkashyap&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=saagarnkashyap&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saagarnkashyap&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saagarnkashyap&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </a>
 
 
