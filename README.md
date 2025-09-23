@@ -32,10 +32,15 @@ Fun fact: *Beyond code, I write poetry, edit music, and see life as data infused
 
 ## GitHub Stats
 
-![Saagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saagarnkashyap&show_icons=true&theme=tokyonight)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=saagarnkashyap&theme=dark)
-[![Saagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=saagarnkashyap)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saagarnkashyap&layout=compact&theme=tokyonight)
+[![Saagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=saagarnkashyap&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saagarnkashyap&layout=compact&theme=tokyonight" />
+</p>
+
+
+
 
 
 
